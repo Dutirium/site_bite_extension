@@ -1,0 +1,10 @@
+# Ignore packaged extension files
+web-ext-artifacts/
+
+# Ignore Node.js modules (if you ever add local npm dependencies)
+node_modules/
+
+# Ignore editor/OS specific files
+.DS_Store
+.vscode/
+*.log
